@@ -13,5 +13,7 @@ We will be using real commercial data provided by Olist and hosted on [Kaggle](h
 We will use the RFM framework to build our customer segmentation model. RFM stands for Recency, Frequency, Monetary Value. This would allow us to create the following segments:
 
 Low Value: Customers who are less active than others, not very frequent buyer/visitor and generates very low - zero maybe negative revenue.
+
 Mid Value: In the middle of everything. Often using our platform (but not as much as our High Values), fairly frequent and generates moderate revenue.
+
 High Value: The group we don’t want to lose. High Revenue, Frequency and low Inactivity.
